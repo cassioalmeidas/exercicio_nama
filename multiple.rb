@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require_relative 'nama_multiple'
 
 (1..35).each do |num|
